@@ -1,1 +1,10 @@
-# jakub-wisniewski.github.io
+---
+layout: page
+title: O mnie
+published: true
+---
+
+Jakub Wiśniewski Page
+
+
+
